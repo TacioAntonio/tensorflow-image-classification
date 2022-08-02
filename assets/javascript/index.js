@@ -27,11 +27,10 @@ UPLOAD.addEventListener('change', async function(event) {
     IMG.value = '';
 });
 
-
 function handleList(result) {
     LIST.innerHTML = '';
     
     result.forEach(({ className, probability }) => {
-        LIST.innerHTML += `<li class="card__item">Breed: ${className} - Probility: ${probability}</li>`;
+        LIST.innerHTML += `<li class="card__item">Classification: ${className} - Probility: ${probability}</li>`;
     });
 }
