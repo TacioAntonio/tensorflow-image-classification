@@ -1,30 +1,24 @@
-# Image Classification
-
+# Image classification
 ![Image](assets/images/classification.gif)
 > An image classifier using [TensorFlow](https://www.tensorflow.org/js?hl=pt-br)
 
-## Como utilizar
-
+## Installation
 ```sh
-$ git clone https://github.com/TacioAntonio/TensorFlow-Image-Classification.git
+$ git clone https://github.com/TacioAntonio/tensorflow-image-classification.git
 ```
 
-## Contribuição
+## Contribution
+Please read [CONTRIBUTING.md](https://github.com/TacioAntonio/tensorflow-image-classification/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Por favor [CONTRIBUTING.md](https://github.com/TacioAntonio/TensorFlow-Image-Classification/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo de envio de solicitações pull para nós.
+## Versioning
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/TacioAntonio/tensorflow-image-classification/tags).
 
-## Versionamento
+## Author
+| ![Tácio Antônio](https://avatars2.githubusercontent.com/u/44682965?s=150&=4) |
+| -------------------------------------------------------------------------------- |
+| [Tácio Antônio](https://github.com/TacioAntonio/)                            |
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, consulte o [tags on this repository](https://github.com/TacioAntonio/TensorFlow-Image-Classification/tags).
+See also the list of [contributors](https://github.com/TacioAntonio/tensorflow-image-classification/graphs/contributors) who participated in this project.
 
-## Autor
-
-| ![Tácio Antônio](https://avatars2.githubusercontent.com/u/44682965?s=150&=4)
-| -
-| [Tácio Antônio](https://github.com/TacioAntonio/)
-
-Veja também a lista de [contributors](https://github.com/TacioAntonio/TensorFlow-Image-Classification/graphs/contributors) que participaram deste projeto.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o [LICENSE.md](https://github.com/TacioAntonio/TensorFlow-Image-Classification/blob/master/LICENSE.md) para detalhes.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/TacioAntonio/tensorflow-image-classification/blob/master/LICENSE.md) file for details.
